@@ -1,1 +1,1 @@
-FROM hub.docker.com/r/cvallance/mongo-k8s-sidecar:latest
+FROM hub.docker.com/cvallance/mongo-k8s-sidecar:latest
