@@ -1,1 +1,1 @@
-FROM docker.io/kubeapps-apis:2.4.5-debian-10-r25
+FROM kubeapps-apis:2.4.5-debian-10-r25
